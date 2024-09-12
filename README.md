@@ -1,2 +1,1 @@
-# responsive_test_eunji
-240912
+# momo_test
